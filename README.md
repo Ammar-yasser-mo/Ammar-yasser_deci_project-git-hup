@@ -6,3 +6,10 @@
                           ^ It contains the website that contian all what i had learned from deci ^
                           
   * happy tour in my repository 
+
+
+
+
+
+
+Google docs Backup Link https://docs.google.com/document/d/10IBy7-F108KA2T6oMOOQGtRY2JPpqkta/edit?usp=sharing&ouid=111711408455526804710&rtpof=true&sd=true
