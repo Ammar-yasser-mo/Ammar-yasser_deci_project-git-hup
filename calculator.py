@@ -1,3 +1,5 @@
+#This is calcutor made by python 
+
 print("calculator")
 print("*********************************************************")
 
